@@ -14,7 +14,7 @@ GitHub webhook to cloudflare worker to Telegram, built from template https://git
 
 ## Getting Started
 - Install [wrangler](https://developers.cloudflare.com/workers/cli-wrangler/install-update)
-- `git clone https://www.github.com/JasonKhew96/gh-webhook-tg` or download zip
+- `git clone https://github.com/JasonKhew96/gh-webhook-tg.git` or download zip
 - `npm install` or `yarn install`
 - Copy `wrangler.toml.example` to `wrangler.toml`
 - Edit `account_id`, `BOT_TOKEN` and `CHAT_ID`
