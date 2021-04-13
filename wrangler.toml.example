@@ -1,0 +1,8 @@
+name = "gh-webhook-tg"
+type = "webpack"
+account_id = "23aabda64b2b1dd922618e4a88d1076a"
+workers_dev = true
+route = ""
+zone_id = ""
+webpack_config = "webpack.config.js"
+vars = { BOT_TOKEN = "6492954544:vnhsTlDFiSE6hHFxr47TUbFV3XdyLSqZNUX", CHAT_ID = "-1008465273959" }
